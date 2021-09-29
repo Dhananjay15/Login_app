@@ -1,0 +1,52 @@
+body {
+    background-image: url(../static/2.png);
+}
+.header{
+    padding: 5px 120px;
+    width: 150px;
+    height: 70px;
+    background-color: black; 
+}
+
+.border{
+    padding: 80px 50px;
+    width: 400px;
+    height: 450px;
+    background-image: url(../static/1.jpg); 
+    border-radius: 0px;
+    background-color: #9AC0CD;
+}
+
+.btn {
+    padding: 10px 40px;
+    background-color: black; 
+    color: #FFFFFF;
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.textbox{
+    padding: 10px 40px;
+    background-color: white; 
+    border-radius: 10px;
+}
+      
+::placeholder {
+    color: black;
+    opacity: 1;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.word{
+    color:white;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.bottom{
+    color:whitesmoke;
+    font-style: oblique;
+    font-weight: bold;
+}
